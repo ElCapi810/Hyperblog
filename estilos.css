@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: red;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -11,14 +11,14 @@ body
 #cabecera
 {
     background: #33a;
-    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.5)
-    color white;
+    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.5);
+    color:aliceblue white;
     font-weight: bold;
     margin: 0 ;
     padding:0.5em;
 }
 
-#cabecera #tagline 
+#cabecera #tagline
 {
     margin: 0 0 0 1em;
     font-weight: normal;
